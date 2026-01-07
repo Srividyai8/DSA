@@ -1,12 +1,4 @@
 import java.util.*;
-
-/*
- * This class contains ALL commonly asked Sliding Window problems.
- * Both FIXED WINDOW and VARIABLE WINDOW techniques are covered.
- *
- * 👉 All functions are kept in ONE FILE
- * 👉 Proper comments for understanding & revision
- */
 class BeingZero {
 
     /* =========SEGMENTS WITH SMALL SUM (Max Length)====================== */
